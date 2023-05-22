@@ -1,0 +1,8 @@
+prefix=/home/nuc/catkin_ws/install
+
+Name: reset112
+Description: Description of reset112
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

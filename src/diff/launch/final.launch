@@ -1,0 +1,8 @@
+<!---->
+<launch>
+	<master auto="start"/>
+  	<param name="/use_sim_time" value="false"/>
+	<include file="/home/nuc/catkin_ws/src/diff/launch/lynx.launch"/>
+	<include file="/home/nuc/catkin_ws/src/diff/launch/tebmove.launch"/>
+</launch>
+

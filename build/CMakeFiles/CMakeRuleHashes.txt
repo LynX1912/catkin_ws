@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+bc9058808fcf160a8b12d1cec608d41e /home/nuc/catkin_ws/devel/share/roseus/ros/control/manifest.l
+c35f59e5f62dd258b9f3ee16ea5d5e21 /home/nuc/catkin_ws/devel/share/roseus/ros/test/manifest.l
+531b79c5d67a8b4bce79d2a3c2cfa9be CMakeFiles/clean_test_results

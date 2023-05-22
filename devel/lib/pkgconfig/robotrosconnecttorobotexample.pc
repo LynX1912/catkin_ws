@@ -1,0 +1,8 @@
+prefix=/home/nuc/catkin_ws/devel
+
+Name: robotrosconnecttorobotexample
+Description: Description of robotrosconnecttorobotexample
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs nav_msgs roscpp std_msgs

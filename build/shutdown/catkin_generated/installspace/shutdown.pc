@@ -1,0 +1,8 @@
+prefix=/home/nuc/catkin_ws/install
+
+Name: shutdown
+Description: Description of shutdown
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

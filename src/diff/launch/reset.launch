@@ -1,0 +1,7 @@
+<!---->
+<launch>
+        <node pkg="reset112"
+                type="reset112.sh" name="reset112"
+                output="screen"
+        />
+</launch>
